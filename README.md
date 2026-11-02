@@ -105,3 +105,16 @@ While building this project, I got practical experience with:
 
 GitHub: https://github.com/vedantbarge
 
+
+## Project Screenshots
+
+### 1. Server Monitoring Output
+![Monitoring Output](screenshots/monitoring-output.png)
+
+### 2. Cron Job Automation
+![Cron Automation](screenshots/cron-automation.png)
+
+### 3. Email Alert
+![Email Alert](screenshots/email-Recive.png)
+
+
