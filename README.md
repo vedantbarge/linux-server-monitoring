@@ -109,7 +109,7 @@ GitHub: https://github.com/vedantbarge
 ## Project Screenshots
 
 ### 1. Server Monitoring Output
-![Monitoring Output]()
+![Monitoring Output](monitoring_output.png)
 
 ### 2. Cron Job Automation
 ![Cron Automation](Automation.png)
