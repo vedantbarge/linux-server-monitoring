@@ -112,7 +112,7 @@ GitHub: https://github.com/vedantbarge
 ![Monitoring Output]()
 
 ### 2. Cron Job Automation
-![Cron Automation](screenshots/cron-automation.png)
+![Cron Automation](Automation.png)
 
 ### 3. Email Alert
 ![Email Alert](Email_recive.png)
