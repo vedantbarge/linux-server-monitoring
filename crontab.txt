@@ -1,0 +1,3 @@
+
+# Run Linux server monitoring every day at midnight
+0 0 * * * /bin/bash /root/linux-server-monitoring/project.sh >> /root/linux-server-monitoring/monitoring.log 2>&1
